@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: aws-actions/setup-sam@v2
+      - uses: digitalspace/setup-sam@v1.0.1
         with:
           use-installer: true
       - uses: aws-actions/configure-aws-credentials@v2
