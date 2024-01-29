@@ -1,4 +1,4 @@
-name: "Setup AWS SAM CLI"
+name: "Setup AWS SAM CLI Helper"
 description: "Setup AWS SAM CLI and add it to the PATH"
 branding:
   icon: "terminal"
